@@ -1,0 +1,25 @@
+img{
+    min-height: 300px;
+    min-width: 450px;
+    max-height: 300px;
+    max-width: 450px;
+    border-radius: 10%;
+}
+
+.row{
+    text-align: center;
+}
+.container{
+    margin-top: 20px;
+}
+
+.heading{
+    font-size: xx-large;
+    letter-spacing: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+.nums{
+    font-size: larger;
+    color: #326868;
+}
