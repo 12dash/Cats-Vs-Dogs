@@ -1,0 +1,29 @@
+.img1 {
+    min-height: 200px;
+    min-width: 350px;
+    max-height: 200px;
+    max-width: 350px;
+    border-radius: 10%;
+}
+
+.heading1 {
+    font-size: x-large;
+    letter-spacing: 5px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 2px !important;
+}
+
+.text {
+    letter-spacing: 2px;
+    font-size: medium;
+}
+.images {
+    min-height: 230px;
+    min-width: 250px;
+    max-height: 230px;
+    max-width: 250px;
+    image-rendering: auto;
+}
+.home{
+    margin-bottom: 20px;
+}

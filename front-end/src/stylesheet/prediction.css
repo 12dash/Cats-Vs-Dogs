@@ -6,7 +6,7 @@ img{
     border-radius: 10%;
 }
 
-.row{
+.vals{
     text-align: center;
 }
 .container{
@@ -22,4 +22,9 @@ img{
 .nums{
     font-size: larger;
     color: #326868;
+}
+.labels{
+    font-size: x-large;
+    letter-spacing: 2px;
+    
 }

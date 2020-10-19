@@ -21,15 +21,13 @@ class Sample extends Component {
     render() {
         return (
             <div className="container sample_box">
-                <FadeIn>
+                <FadeIn delay="100">
                     <div className="row mx-auto my-auto">
                         <Individual src={Cat1} />
                         <Individual src={Dog2} />
                         <Individual src={Cat3} />
                     </div>
-                </FadeIn>
-                <br />
-                <FadeIn>
+                    <br />
                     <div className="row mx-auto my-auto">
                         <Individual src={Dog1} />
                         <Individual src={Cat2} />
